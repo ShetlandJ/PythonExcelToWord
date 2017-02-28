@@ -1,0 +1,1 @@
+pyinstaller --onefile --noconsole --add-data="gui.ui;." --add-data="excel-icon.png;." --add-data="word-icon.png;." --add-data="loading.gif;." main.py

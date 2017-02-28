@@ -1,0 +1,9 @@
+.idea/
+__pycache__/
+build/
+Constituencies/
+dist/
+*.xlsx
+*.pyc
+*.spec
+*.docx
